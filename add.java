@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class AddTwoNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        int first = 30;
+        int second = 20;
 
         System.out.println("Enter two numbers:");
 
